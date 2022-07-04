@@ -36,7 +36,7 @@ $Malio_Config['mups_token188'] = 'token188';   // Malio 聚合支付系统里面
 
  - [TOKEN188 USDT支付平台主页](https://www.token188.com)
  - [TOKEN188钱包](https://www.token188.com)（即将推出）
- - [商户平台](https://www.token188.com/manager)
+ - [商户平台](https://mar.token188.com/)
 ### 特点
  - 使用您自己的USDT地址收款没有中间商
  - 五分钟完成对接
