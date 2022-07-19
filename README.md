@@ -1,4 +1,4 @@
-# SSPanelusdtapi
+# SSPanel usdt 免费支付插件
 SSPanel usdt支付插件 点对点个人对个人 没有中间商 无手续费 实时到账
 ### 网站配置
  - 下载SDK并解压到面板目录
